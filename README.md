@@ -16,6 +16,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Niel2D&layout=compact&theme=dracula)
 
 
